@@ -55,7 +55,7 @@ def main():
         target = figures / relative
         target.parent.mkdir(parents=True, exist_ok=True)
         shutil.copy2(file, target)
-        manifest.append({"file": str(target), "raw_url": "https://raw.githubusercontent.com/lishangli/arxiv-paper-assets/main/" + str(target)})
+        manifest.append({"file": str(target), "raw_url": "https://raw.githubusercontent.com/lishangli/arxiv-paper-assets/orgin/" + str(target)})
     (root / "manifest.json").write_text(json.dumps({"arxiv_id": paper_id, "figures": manifest, "latex_references": references}, indent=2), encoding="utf-8")
     print(f"Extracted {len(manifest)} figure assets; found {len(references)} LaTeX references")
 
