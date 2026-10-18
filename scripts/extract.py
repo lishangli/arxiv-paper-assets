@@ -33,10 +33,10 @@ def main():
         data = response.read(100 * 1024 * 1024 + 1)
     if len(data) > 100 * 1024 * 1024:
         raise ValueError("Source archive too large")
-    if tarfile.is_tarfile(io.BytesIO(data)):
+    try:
         with tarfile.open(fileobj=io.BytesIO(data), mode="r:*") as archive:
             safe_extract(archive, source_dir)
-    else:
+    except tarfile.ReadError:
         (source_dir / "source.tex").write_bytes(data)
     tex_files = list(source_dir.rglob("*.tex"))
     references = []
