@@ -1,0 +1,367 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{42}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{} and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showURL}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showURL #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       {\relax}        \fi
+% The following commands are used for tagged output and should be
+% invisible to TeX
+\providecommand\bibfield[2]{#2}
+\providecommand\bibinfo[2]{#2}
+\providecommand\natexlab[1]{#1}
+\providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[Agarwal et~al\mbox{.}(1995)]%
+        {johnsonsalg}
+\bibfield{author}{\bibinfo{person}{Ramesh~C Agarwal}, \bibinfo{person}{Susanne~M Balle}, \bibinfo{person}{Fred~G Gustavson}, \bibinfo{person}{Mahesh Joshi}, {and} \bibinfo{person}{Prasad Palkar}.} \bibinfo{year}{1995}\natexlab{}.
+\newblock \showarticletitle{A three-dimensional approach to parallel matrix multiplication}.
+\newblock \bibinfo{journal}{\emph{IBM Journal of Research and Development}} \bibinfo{volume}{39}, \bibinfo{number}{5} (\bibinfo{year}{1995}), \bibinfo{pages}{575--582}.
+\newblock
+
+
+\bibitem[Ballard et~al\mbox{.}(2009)]%
+        {ballard2009cholesky}
+\bibfield{author}{\bibinfo{person}{Grey Ballard}, \bibinfo{person}{James Demmel}, \bibinfo{person}{Olga Holtz}, {and} \bibinfo{person}{Oded Schwartz}.} \bibinfo{year}{2009}\natexlab{}.
+\newblock \showarticletitle{Communication-optimal parallel and sequential Cholesky decomposition}. In \bibinfo{booktitle}{\emph{Proceedings of the twenty-first annual symposium on Parallelism in algorithms and architectures}}. \bibinfo{pages}{245--252}.
+\newblock
+
+
+\bibitem[Bauer et~al\mbox{.}(2012)]%
+        {legion}
+\bibfield{author}{\bibinfo{person}{Michael Bauer}, \bibinfo{person}{Sean Treichler}, \bibinfo{person}{Elliott Slaughter}, {and} \bibinfo{person}{Alex Aiken}.} \bibinfo{year}{2012}\natexlab{}.
+\newblock \showarticletitle{Legion: Expressing Locality and Independence with Logical Regions}. In \bibinfo{booktitle}{\emph{Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis (SC)}}. IEEE.
+\newblock
+
+
+\bibitem[Bosilca et~al\mbox{.}(2011)]%
+        {bosilca2011flexible}
+\bibfield{author}{\bibinfo{person}{George Bosilca}, \bibinfo{person}{Aurelien Bouteiller}, \bibinfo{person}{Anthony Danalis}, \bibinfo{person}{Mathieu Faverge}, \bibinfo{person}{Azzam Haidar}, \bibinfo{person}{Thomas Herault}, \bibinfo{person}{Jakub Kurzak}, \bibinfo{person}{Julien Langou}, \bibinfo{person}{Pierre Lemarinier}, \bibinfo{person}{Hatem Ltaief}, {et~al\mbox{.}}} \bibinfo{year}{2011}\natexlab{}.
+\newblock \showarticletitle{Flexible development of dense linear algebra algorithms on massively parallel architectures with DPLASMA}. In \bibinfo{booktitle}{\emph{2011 IEEE International Symposium on Parallel and Distributed Processing Workshops and Phd Forum}}. IEEE, \bibinfo{pages}{1432--1441}.
+\newblock
+
+
+\bibitem[Bosilca et~al\mbox{.}(2013)]%
+        {bosilca2013parsec}
+\bibfield{author}{\bibinfo{person}{George Bosilca}, \bibinfo{person}{Aurelien Bouteiller}, \bibinfo{person}{Anthony Danalis}, \bibinfo{person}{Mathieu Faverge}, \bibinfo{person}{Thomas H{\'e}rault}, {and} \bibinfo{person}{Jack~J Dongarra}.} \bibinfo{year}{2013}\natexlab{}.
+\newblock \showarticletitle{Parsec: Exploiting heterogeneity to enhance scalability}.
+\newblock \bibinfo{journal}{\emph{Computing in Science \& Engineering}} \bibinfo{volume}{15}, \bibinfo{number}{6} (\bibinfo{year}{2013}), \bibinfo{pages}{36--45}.
+\newblock
+
+
+\bibitem[Cannon(1969)]%
+        {cannon1969cellular}
+\bibfield{author}{\bibinfo{person}{Lynn~Elliot Cannon}.} \bibinfo{year}{1969}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{A cellular computer to implement the Kalman filter algorithm}}.
+\newblock \bibinfo{publisher}{Montana State University}.
+\newblock
+
+
+\bibitem[Choi et~al\mbox{.}(1992)]%
+        {choi1992scalapack}
+\bibfield{author}{\bibinfo{person}{Jaeyoung Choi}, \bibinfo{person}{Jack~J Dongarra}, \bibinfo{person}{Roldan Pozo}, {and} \bibinfo{person}{David~W Walker}.} \bibinfo{year}{1992}\natexlab{}.
+\newblock \showarticletitle{ScaLAPACK: A scalable linear algebra library for distributed memory concurrent computers}. In \bibinfo{booktitle}{\emph{The Fourth Symposium on the Frontiers of Massively Parallel Computation}}. IEEE Computer Society, \bibinfo{pages}{120--121}.
+\newblock
+
+
+\bibitem[Choi et~al\mbox{.}(1994)]%
+        {choi1994pumma}
+\bibfield{author}{\bibinfo{person}{Jaeyoung Choi}, \bibinfo{person}{David~W Walker}, {and} \bibinfo{person}{Jack~J Dongarra}.} \bibinfo{year}{1994}\natexlab{}.
+\newblock \showarticletitle{PUMMA: Parallel universal matrix multiplication algorithms on distributed memory concurrent computers}.
+\newblock \bibinfo{journal}{\emph{Concurrency: Practice and Experience}} \bibinfo{volume}{6}, \bibinfo{number}{7} (\bibinfo{year}{1994}), \bibinfo{pages}{543--570}.
+\newblock
+
+
+\bibitem[Cong and Wang(2018)]%
+        {cong2018polysa}
+\bibfield{author}{\bibinfo{person}{Jason Cong} {and} \bibinfo{person}{Jie Wang}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{PolySA: Polyhedral-based systolic array auto-compilation}. In \bibinfo{booktitle}{\emph{2018 IEEE/ACM International Conference on Computer-Aided Design (ICCAD)}}. IEEE, \bibinfo{pages}{1--8}.
+\newblock
+
+
+\bibitem[Gates et~al\mbox{.}(2019)]%
+        {gates2019slate}
+\bibfield{author}{\bibinfo{person}{Mark Gates}, \bibinfo{person}{Jakub Kurzak}, \bibinfo{person}{Ali Charara}, \bibinfo{person}{Asim YarKhan}, {and} \bibinfo{person}{Jack Dongarra}.} \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{SLATE: Design of a modern distributed and accelerated linear algebra library}. In \bibinfo{booktitle}{\emph{Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis}}. \bibinfo{pages}{1--18}.
+\newblock
+
+
+\bibitem[Genc et~al\mbox{.}(2021)]%
+        {genc2021gemmini}
+\bibfield{author}{\bibinfo{person}{Hasan Genc}, \bibinfo{person}{Seah Kim}, \bibinfo{person}{Alon Amid}, \bibinfo{person}{Ameer Haj-Ali}, \bibinfo{person}{Vighnesh Iyer}, \bibinfo{person}{Pranav Prakash}, \bibinfo{person}{Jerry Zhao}, \bibinfo{person}{Daniel Grubb}, \bibinfo{person}{Harrison Liew}, \bibinfo{person}{Howard Mao}, {et~al\mbox{.}}} \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{Gemmini: Enabling systematic deep-learning architecture evaluation via full-stack integration}. In \bibinfo{booktitle}{\emph{2021 58th ACM/IEEE Design Automation Conference (DAC)}}. IEEE, \bibinfo{pages}{769--774}.
+\newblock
+
+
+\bibitem[Genc et~al\mbox{.}(2024)]%
+        {genc2024stellar}
+\bibfield{author}{\bibinfo{person}{Hasan~Nazim Genc}, \bibinfo{person}{Hansung Kim}, \bibinfo{person}{Prashanth Ganesh}, {and} \bibinfo{person}{Yakun~Sophia Shao}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Stellar: An Automated Design Framework for Dense and Sparse Spatial Accelerators}. In \bibinfo{booktitle}{\emph{2024 57th IEEE/ACM International Symposium on Microarchitecture (MICRO)}}. IEEE, \bibinfo{pages}{409--422}.
+\newblock
+
+
+\bibitem[Gyires(2013)]%
+        {gyires_systolic}
+\bibfield{author}{\bibinfo{person}{J{\'a}nos~P. Gyires}.} \bibinfo{year}{2013}\natexlab{}.
+\newblock \showarticletitle{Systolic Systems}.
+\newblock In \bibinfo{booktitle}{\emph{Algorithms of Informatics, Volume 2}}. \bibinfo{publisher}{University of Debrecen}.
+\newblock
+\urldef\tempurl%
+\url{https://gyires.inf.unideb.hu/KMITT/a52/ch16.html}
+\showURL{%
+\tempurl}
+\newblock
+\shownote{Accessed: 2025-11-10}.
+
+
+\bibitem[Heath and Romine(1988)]%
+        {heathTriangular}
+\bibfield{author}{\bibinfo{person}{Michael~T. Heath} {and} \bibinfo{person}{Charles~H. Romine}.} \bibinfo{year}{1988}\natexlab{}.
+\newblock \showarticletitle{Parallel Solution of Triangular Systems on Distributed-Memory Multiprocessors}.
+\newblock \bibinfo{journal}{\emph{SIAM J. Sci. Statist. Comput.}} \bibinfo{volume}{9}, \bibinfo{number}{3} (\bibinfo{year}{1988}), \bibinfo{pages}{558--588}.
+\newblock
+\showeprint{https://doi.org/10.1137/0909037}
+\href{https://doi.org/10.1137/0909037}{doi:\nolinkurl{10.1137/0909037}}
+
+
+\bibitem[Kjolstad et~al\mbox{.}(2017)]%
+        {kjolstad2017taco}
+\bibfield{author}{\bibinfo{person}{Fredrik Kjolstad}, \bibinfo{person}{Shoaib Kamil}, \bibinfo{person}{Stephen Chou}, \bibinfo{person}{David Lugato}, {and} \bibinfo{person}{Saman Amarasinghe}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{The tensor algebra compiler}.
+\newblock \bibinfo{journal}{\emph{Proceedings of the ACM on Programming Languages}} \bibinfo{volume}{1}, \bibinfo{number}{OOPSLA} (\bibinfo{year}{2017}), \bibinfo{pages}{1--29}.
+\newblock
+
+
+\bibitem[Kung(1982)]%
+        {kung1982why}
+\bibfield{author}{\bibinfo{person}{Hsiang-Tsung Kung}.} \bibinfo{year}{1982}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Why systolic architecture?}}
+\newblock \bibinfo{publisher}{Design Research Center, Carnegie-Mellon University Pittsburgh, PA, USA}.
+\newblock
+
+
+\bibitem[Kung and Leiserson(1979)]%
+        {kung1979systolic}
+\bibfield{author}{\bibinfo{person}{Hsiang~Tsung Kung} {and} \bibinfo{person}{Charles~E Leiserson}.} \bibinfo{year}{1979}\natexlab{}.
+\newblock \showarticletitle{Systolic arrays (for VLSI)}. In \bibinfo{booktitle}{\emph{Sparse Matrix Proceedings 1978}}, Vol.~\bibinfo{volume}{1}. Society for industrial and applied mathematics Philadelphia, PA, USA, \bibinfo{pages}{256--282}.
+\newblock
+
+
+\bibitem[Kung et~al\mbox{.}(1982)]%
+        {wavefrontLanguage}
+\bibfield{author}{\bibinfo{person}{Sun-Yuan Kung}, \bibinfo{person}{Arun}, \bibinfo{person}{Gal-Ezer}, {and} \bibinfo{person}{Bhaskar Rao}.} \bibinfo{year}{1982}\natexlab{}.
+\newblock \showarticletitle{Wavefront Array Processor: Language, Architecture, and Applications}.
+\newblock \bibinfo{journal}{\emph{IEEE Trans. Comput.}} \bibinfo{volume}{C-31}, \bibinfo{number}{11} (\bibinfo{year}{1982}), \bibinfo{pages}{1054--1066}.
+\newblock
+\href{https://doi.org/10.1109/TC.1982.1675922}{doi:\nolinkurl{10.1109/TC.1982.1675922}}
+
+
+\bibitem[Kwasniewski et~al\mbox{.}(2021)]%
+        {kwasniewski2021costa}
+\bibfield{author}{\bibinfo{person}{Grzegorz Kwasniewski}, \bibinfo{person}{Marko Kabic}, \bibinfo{person}{Tal Ben-Nun}, \bibinfo{person}{Alexandros~Nikolaos Ziogas}, \bibinfo{person}{Jens~Eirik Saethre}, \bibinfo{person}{Andr{\'e} Gaillard}, \bibinfo{person}{Timo Schneider}, \bibinfo{person}{Maciej Besta}, \bibinfo{person}{Anton Kozhevnikov}, \bibinfo{person}{Joost VandeVondele}, {et~al\mbox{.}}} \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{On the parallel i/o optimality of linear algebra kernels: Near-optimal matrix factorizations}. In \bibinfo{booktitle}{\emph{Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis}}. \bibinfo{pages}{1--15}.
+\newblock
+
+
+\bibitem[Kwasniewski et~al\mbox{.}(2019)]%
+        {kwasniewski2019cosma}
+\bibfield{author}{\bibinfo{person}{Grzegorz Kwasniewski}, \bibinfo{person}{Marko Kabi{\'c}}, \bibinfo{person}{Maciej Besta}, \bibinfo{person}{Joost VandeVondele}, \bibinfo{person}{Raffaele Solc{\`a}}, {and} \bibinfo{person}{Torsten Hoefler}.} \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{Red-blue pebbling revisited: near optimal parallel matrix-matrix multiplication}. In \bibinfo{booktitle}{\emph{Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis}}. \bibinfo{pages}{1--22}.
+\newblock
+
+
+\bibitem[Lam and Wolf(2004)]%
+        {lam2004data}
+\bibfield{author}{\bibinfo{person}{Monica~S Lam} {and} \bibinfo{person}{Michael~E Wolf}.} \bibinfo{year}{2004}\natexlab{}.
+\newblock \showarticletitle{A data locality optimizing algorithm}.
+\newblock \bibinfo{journal}{\emph{ACM SIGPLAN Notices}} \bibinfo{volume}{39}, \bibinfo{number}{4} (\bibinfo{year}{2004}), \bibinfo{pages}{442--459}.
+\newblock
+
+
+\bibitem[Lam(1987)]%
+        {lam1987systolic}
+\bibfield{author}{\bibinfo{person}{Monica Sin-Ling Lam}.} \bibinfo{year}{1987}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{A systolic array optimizing compiler}}.
+\newblock \bibinfo{publisher}{Carnegie Mellon University}.
+\newblock
+
+
+\bibitem[Nigam et~al\mbox{.}(2020)]%
+        {nigam2020dahlia}
+\bibfield{author}{\bibinfo{person}{Rachit Nigam}, \bibinfo{person}{Sachille Atapattu}, \bibinfo{person}{Samuel Thomas}, \bibinfo{person}{Zhijing Li}, \bibinfo{person}{Theodore Bauer}, \bibinfo{person}{Yuwei Ye}, \bibinfo{person}{Apurva Koti}, \bibinfo{person}{Adrian Sampson}, {and} \bibinfo{person}{Zhiru Zhang}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Predictable accelerator design with time-sensitive affine types}. In \bibinfo{booktitle}{\emph{Proceedings of the 41st ACM SIGPLAN Conference on Programming Language Design and Implementation}}. \bibinfo{pages}{393--407}.
+\newblock
+
+
+\bibitem[Nigam et~al\mbox{.}(2021)]%
+        {nigam2021calyx}
+\bibfield{author}{\bibinfo{person}{Rachit Nigam}, \bibinfo{person}{Samuel Thomas}, \bibinfo{person}{Zhijing Li}, {and} \bibinfo{person}{Adrian Sampson}.} \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{A compiler infrastructure for accelerator generators}. In \bibinfo{booktitle}{\emph{Proceedings of the 26th ACM International Conference on Architectural Support for Programming Languages and Operating Systems}}. \bibinfo{pages}{804--817}.
+\newblock
+
+
+\bibitem[Poulson et~al\mbox{.}(2013)]%
+        {poulson2013elemental}
+\bibfield{author}{\bibinfo{person}{Jack Poulson}, \bibinfo{person}{Bryan Marker}, \bibinfo{person}{Robert~A Van~de Geijn}, \bibinfo{person}{Jeff~R Hammond}, {and} \bibinfo{person}{Nichols~A Romero}.} \bibinfo{year}{2013}\natexlab{}.
+\newblock \showarticletitle{Elemental: A new framework for distributed memory dense matrix computations}.
+\newblock \bibinfo{journal}{\emph{ACM Transactions on Mathematical Software (TOMS)}} \bibinfo{volume}{39}, \bibinfo{number}{2} (\bibinfo{year}{2013}), \bibinfo{pages}{1--24}.
+\newblock
+
+
+\bibitem[Quinton(1984)]%
+        {Quinton84c}
+\bibfield{author}{\bibinfo{person}{P. Quinton}.} \bibinfo{year}{1984}\natexlab{}.
+\newblock \showarticletitle{Automatic Synthesis of Systolic Arrays from Uniform Recurrent Equations}. In \bibinfo{booktitle}{\emph{11th Annual International Symposium on Computer Architecture, Ann Arbor}}. \bibinfo{pages}{208--214}.
+\newblock
+
+
+\bibitem[Quinton and Van~Dongen(1989)]%
+        {quinton1989mapping}
+\bibfield{author}{\bibinfo{person}{Patrice Quinton} {and} \bibinfo{person}{Vincent Van~Dongen}.} \bibinfo{year}{1989}\natexlab{}.
+\newblock \showarticletitle{The mapping of linear recurrence equations on regular arrays}.
+\newblock \bibinfo{journal}{\emph{Journal of VLSI Signal Processing}} \bibinfo{volume}{1}, \bibinfo{number}{2} (\bibinfo{year}{1989}), \bibinfo{pages}{95--113}.
+\newblock
+
+
+\bibitem[Ragan-Kelley et~al\mbox{.}(2013)]%
+        {ragan2013halide}
+\bibfield{author}{\bibinfo{person}{Jonathan Ragan-Kelley}, \bibinfo{person}{Connelly Barnes}, \bibinfo{person}{Andrew Adams}, \bibinfo{person}{Sylvain Paris}, \bibinfo{person}{Fr{\'e}do Durand}, {and} \bibinfo{person}{Saman Amarasinghe}.} \bibinfo{year}{2013}\natexlab{}.
+\newblock \showarticletitle{Halide: a language and compiler for optimizing parallelism, locality, and recomputation in image processing pipelines}.
+\newblock \bibinfo{journal}{\emph{Acm Sigplan Notices}} \bibinfo{volume}{48}, \bibinfo{number}{6} (\bibinfo{year}{2013}), \bibinfo{pages}{519--530}.
+\newblock
+
+
+\bibitem[Rajopadhye(1986)]%
+        {sanjay-thesis}
+\bibfield{author}{\bibinfo{person}{S.~V. Rajopadhye}.} \bibinfo{year}{1986}\natexlab{}.
+\newblock \emph{\bibinfo{title}{Synthesis, Optimization and Verification of Systolic Architectures}}.
+\newblock \bibinfo{thesistype}{Ph.\,D. Dissertation}. \bibinfo{school}{University of Utah}, \bibinfo{address}{Salt Lake City, Utah 84112}.
+\newblock
+
+
+\bibitem[Rajopadhye and Fujimoto(1990)]%
+        {rajopadhye1990synthesizing}
+\bibfield{author}{\bibinfo{person}{Sanjay~V Rajopadhye} {and} \bibinfo{person}{Richard~M Fujimoto}.} \bibinfo{year}{1990}\natexlab{}.
+\newblock \showarticletitle{Synthesizing systolic arrays from recurrence equations}.
+\newblock \bibinfo{journal}{\emph{Parallel computing}} \bibinfo{volume}{14}, \bibinfo{number}{2} (\bibinfo{year}{1990}), \bibinfo{pages}{163--189}.
+\newblock
+
+
+\bibitem[Rajopadhye et~al\mbox{.}(1986)]%
+        {sanjay-fst-tcs}
+\bibfield{author}{\bibinfo{person}{S.~V. Rajopadhye}, \bibinfo{person}{S. Purushothaman}, {and} \bibinfo{person}{R.~M. Fujimoto}.} \bibinfo{year}{1986}\natexlab{}.
+\newblock \showarticletitle{On Synthesizing Systolic Arrays from Recurrence Equations with Linear Dependencies}. In \bibinfo{booktitle}{\emph{Proceedings, Sixth Conference on Foundations of Software Technology and Theoretical Computer Science}}. \bibinfo{publisher}{Springer Verlag, LNCS~241}, \bibinfo{address}{New Delhi, India}, \bibinfo{pages}{488--503}.
+\newblock
+
+
+\bibitem[Solomonik and Demmel(2011)]%
+        {solomonik2011communication}
+\bibfield{author}{\bibinfo{person}{Edgar Solomonik} {and} \bibinfo{person}{James Demmel}.} \bibinfo{year}{2011}\natexlab{}.
+\newblock \showarticletitle{Communication-optimal parallel 2.5 D matrix multiplication and LU factorization algorithms}. In \bibinfo{booktitle}{\emph{European Conference on Parallel Processing}}. Springer, \bibinfo{pages}{90--109}.
+\newblock
+
+
+\bibitem[Sundram et~al\mbox{.}(2024)]%
+        {recuma}
+\bibfield{author}{\bibinfo{person}{Shiv Sundram}, \bibinfo{person}{Muhammad~Usman Tariq}, {and} \bibinfo{person}{Fredrik Kjolstad}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Compiling Recurrences over Dense and Sparse Arrays}.
+\newblock \bibinfo{journal}{\emph{Proc. ACM Program. Lang.}} \bibinfo{volume}{8}, \bibinfo{number}{OOPSLA1}, Article \bibinfo{articleno}{103} (\bibinfo{date}{April} \bibinfo{year}{2024}), \bibinfo{numpages}{26}~pages.
+\newblock
+\href{https://doi.org/10.1145/3649820}{doi:\nolinkurl{10.1145/3649820}}
+
+
+\bibitem[Tariq et~al\mbox{.}(2025)]%
+        {reptile}
+\bibfield{author}{\bibinfo{person}{Muhammad~Usman Tariq}, \bibinfo{person}{Shiv Sundram}, {and} \bibinfo{person}{Fredrik Kjolstad}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{REPTILE: Performant Tiling of Recurrences}.
+\newblock \bibinfo{journal}{\emph{Proc. ACM Program. Lang.}} \bibinfo{volume}{9}, \bibinfo{number}{OOPSLA2}, Article \bibinfo{articleno}{296} (\bibinfo{date}{Oct.} \bibinfo{year}{2025}), \bibinfo{numpages}{27}~pages.
+\newblock
+\href{https://doi.org/10.1145/3763074}{doi:\nolinkurl{10.1145/3763074}}
+
+
+\bibitem[Van De~Geijn and Watts(1997)]%
+        {van1997summa}
+\bibfield{author}{\bibinfo{person}{Robert~A Van De~Geijn} {and} \bibinfo{person}{Jerrell Watts}.} \bibinfo{year}{1997}\natexlab{}.
+\newblock \showarticletitle{SUMMA: Scalable universal matrix multiplication algorithm}.
+\newblock \bibinfo{journal}{\emph{Concurrency: Practice and Experience}} \bibinfo{volume}{9}, \bibinfo{number}{4} (\bibinfo{year}{1997}), \bibinfo{pages}{255--274}.
+\newblock
+
+
+\bibitem[Vinaithirthan et~al\mbox{.}(2026)]%
+        {vinaithirthan2026compiling}
+\bibfield{author}{\bibinfo{person}{Bala Vinaithirthan}, \bibinfo{person}{Shiv Sundram}, \bibinfo{person}{Sneha Goenka}, {and} \bibinfo{person}{Fredrik Kjolstad}.} \bibinfo{year}{2026}\natexlab{}.
+\newblock \showarticletitle{Compiling Bioinformatics Recurrences}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:2607.06225}} (\bibinfo{year}{2026}).
+\newblock
+
+
+\bibitem[Wang et~al\mbox{.}(2021)]%
+        {autosa}
+\bibfield{author}{\bibinfo{person}{Jie Wang}, \bibinfo{person}{Licheng Guo}, {and} \bibinfo{person}{Jason Cong}.} \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{{AutoSA}: A Polyhedral Compiler for High-Performance Systolic Arrays on {FPGA}}. In \bibinfo{booktitle}{\emph{Proceedings of the ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (FPGA)}}.
+\newblock
+
+
+\bibitem[Yadav et~al\mbox{.}(2022)]%
+        {distal}
+\bibfield{author}{\bibinfo{person}{Rohan Yadav}, \bibinfo{person}{Alex Aiken}, {and} \bibinfo{person}{Fredrik Kjolstad}.} \bibinfo{year}{2022}\natexlab{}.
+\newblock \showarticletitle{DISTAL: the distributed tensor algebra compiler}. In \bibinfo{booktitle}{\emph{Proceedings of the 43rd ACM SIGPLAN International Conference on Programming Language Design and Implementation}} (San Diego, CA, USA) \emph{(\bibinfo{series}{PLDI 2022})}. \bibinfo{publisher}{Association for Computing Machinery}, \bibinfo{address}{New York, NY, USA}, \bibinfo{pages}{286–300}.
+\newblock
+\showISBNx{9781450392655}
+\href{https://doi.org/10.1145/3519939.3523437}{doi:\nolinkurl{10.1145/3519939.3523437}}
+
+
+\bibitem[Yuki et~al\mbox{.}(2012a)]%
+        {alphaz}
+\bibfield{author}{\bibinfo{person}{Tomofumi Yuki}, \bibinfo{person}{Gautam Gupta}, \bibinfo{person}{DaeGon Kim}, \bibinfo{person}{Tanveer Pathan}, {and} \bibinfo{person}{Sanjay Rajopadhye}.} \bibinfo{year}{2012}\natexlab{a}.
+\newblock \showarticletitle{{AlphaZ}: A System for Design Space Exploration in the Polyhedral Model}. In \bibinfo{booktitle}{\emph{Languages and Compilers for Parallel Computing (LCPC)}}.
+\newblock
+
+
+\bibitem[Yuki et~al\mbox{.}(2012b)]%
+        {sanjay-yuki-lcpc2012}
+\bibfield{author}{\bibinfo{person}{T. Yuki}, \bibinfo{person}{G. Gupta}, \bibinfo{person}{DG. Kim}, \bibinfo{person}{T. Pathan}, {and} \bibinfo{person}{S. Rajopadhye}.} \bibinfo{year}{2012}\natexlab{b}.
+\newblock \showarticletitle{{AlphaZ}: A System for Design Space Exploration in the Polyhedral Model}. In \bibinfo{booktitle}{\emph{Proceedings of the 25th International Workshop on Languages and Compilers for Parallel Computing}}. \bibinfo{address}{Tokyo, Japan}.
+\newblock
+
+
+\bibitem[Yuki and Rajopadhye(2013)]%
+        {sanjay-yuki-TR13-105}
+\bibfield{author}{\bibinfo{person}{T. Yuki} {and} \bibinfo{person}{S. Rajopadhye}.} \bibinfo{year}{2013}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Parametrically Tiled Distributed Memory Parallelization of Polyhedral Programs}}.
+\newblock \bibinfo{type}{{T}echnical {R}eport} CSU-CS-13-105. \bibinfo{institution}{Colorado State University}, \bibinfo{address}{Computer Science Department}.
+\newblock
+
+
+\bibitem[Zhang et~al\mbox{.}(2024)]%
+        {zhang2024dataflow}
+\bibfield{author}{\bibinfo{person}{Nathan Zhang}, \bibinfo{person}{Rubens Lacouture}, \bibinfo{person}{Gina Sohn}, \bibinfo{person}{Paul Mure}, \bibinfo{person}{Qizheng Zhang}, \bibinfo{person}{Fredrik Kjolstad}, {and} \bibinfo{person}{Kunle Olukotun}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{The Dataflow Abstract Machine Simulator Framework}. In \bibinfo{booktitle}{\emph{2024 ACM/IEEE 51st Annual International Symposium on Computer Architecture (ISCA)}}. IEEE, \bibinfo{pages}{532--547}.
+\newblock
+
+
+\end{thebibliography}

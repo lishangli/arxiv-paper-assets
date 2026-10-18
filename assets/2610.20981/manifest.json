@@ -1,0 +1,71 @@
+{
+  "arxiv_id": "2610.20981",
+  "figures": [
+    {
+      "file": "assets/2610.20981/figures/fig_gpu_vs_slate_bounce_t4096.pdf",
+      "raw_url": "https://raw.githubusercontent.com/lishangli/arxiv-paper-assets/orgin/assets/2610.20981/figures/fig_gpu_vs_slate_bounce_t4096.pdf"
+    },
+    {
+      "file": "assets/2610.20981/figures/ws_vs_os_asym_P4_16node_full.pdf",
+      "raw_url": "https://raw.githubusercontent.com/lishangli/arxiv-paper-assets/orgin/assets/2610.20981/figures/ws_vs_os_asym_P4_16node_full.pdf"
+    },
+    {
+      "file": "assets/2610.20981/figures/comm_patterns_pretty7.pdf",
+      "raw_url": "https://raw.githubusercontent.com/lishangli/arxiv-paper-assets/orgin/assets/2610.20981/figures/comm_patterns_pretty7.pdf"
+    },
+    {
+      "file": "assets/2610.20981/figures/memvspace3.pdf",
+      "raw_url": "https://raw.githubusercontent.com/lishangli/arxiv-paper-assets/orgin/assets/2610.20981/figures/memvspace3.pdf"
+    },
+    {
+      "file": "assets/2610.20981/figures/matmul_perlmutter_straight.pdf",
+      "raw_url": "https://raw.githubusercontent.com/lishangli/arxiv-paper-assets/orgin/assets/2610.20981/figures/matmul_perlmutter_straight.pdf"
+    },
+    {
+      "file": "assets/2610.20981/figures/bc16av_speedup2.pdf",
+      "raw_url": "https://raw.githubusercontent.com/lishangli/arxiv-paper-assets/orgin/assets/2610.20981/figures/bc16av_speedup2.pdf"
+    },
+    {
+      "file": "assets/2610.20981/figures/fig_gpu_vs_cusolvermp_portd_t4096.pdf",
+      "raw_url": "https://raw.githubusercontent.com/lishangli/arxiv-paper-assets/orgin/assets/2610.20981/figures/fig_gpu_vs_cusolvermp_portd_t4096.pdf"
+    },
+    {
+      "file": "assets/2610.20981/figures/acm-jdslogo.png",
+      "raw_url": "https://raw.githubusercontent.com/lishangli/arxiv-paper-assets/orgin/assets/2610.20981/figures/acm-jdslogo.png"
+    }
+  ],
+  "latex_references": [
+    {
+      "tex": "sample-sigconf-authordraft.tex",
+      "graphic": "memvspace3.pdf"
+    },
+    {
+      "tex": "sample-sigconf-authordraft.tex",
+      "graphic": "comm_patterns_pretty7.pdf"
+    },
+    {
+      "tex": "sample-sigconf-authordraft.tex",
+      "graphic": "memvspace.pdf"
+    },
+    {
+      "tex": "sample-sigconf-authordraft.tex",
+      "graphic": "fig_gpu_vs_slate_bounce_t4096.pdf"
+    },
+    {
+      "tex": "sample-sigconf-authordraft.tex",
+      "graphic": "fig_gpu_vs_cusolvermp_portd_t4096.pdf"
+    },
+    {
+      "tex": "sample-sigconf-authordraft.tex",
+      "graphic": "bc16av_speedup2.pdf"
+    },
+    {
+      "tex": "sample-sigconf-authordraft.tex",
+      "graphic": "matmul_perlmutter_straight.pdf"
+    },
+    {
+      "tex": "sample-sigconf-authordraft.tex",
+      "graphic": "ws_vs_os_asym_P4_16node_full.pdf"
+    }
+  ]
+}
