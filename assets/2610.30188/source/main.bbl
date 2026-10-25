@@ -1,0 +1,464 @@
+\begin{thebibliography}{10}
+
+\bibitem{agarwal2026inductive}
+Shubham Agarwal, Alexander Krentsel, Shu Liu, Mert Cemri, Audrey Cheng, Rui Meng, Tomas Pfister, Chun-Liang Li, Sylvia Ratnasamy, Aditya Parameswaran, Matei Zaharia, Ion Stoica, and Mohsen Lesani.
+\newblock {Inductive Deductive Synthesis: Enabling AI to Generate Formally Verified Systems}.
+\newblock {\em arXiv preprint arXiv:2605.23109}, 2026.
+
+\bibitem{anthropic2026formalizing}
+{Anthropic}.
+\newblock {Formalizing Fermat's Last Theorem}.
+\newblock \url{https://www.anthropic.com/research/formalizing-fermats-last-theorem}, 2026.
+
+\bibitem{barrett2026cslib}
+Clark Barrett, Swarat Chaudhuri, Fabrizio Montesi, Jim Grundy, Pushmeet Kohli, Leonardo de~Moura, Alexandre Rademaker, and Sorrachai Yingchareonthawornchai.
+\newblock {CSLib: The Lean Computer Science Library}.
+\newblock {\em arXiv preprint arXiv:2602.04846}, 2026.
+
+\bibitem{bhatia2024verifiedcode}
+Sahil Bhatia, Jie Qiu, Niranjan Hasabnis, Sanjit~A. Seshia, and Alvin Cheung.
+\newblock {Verified Code Transpilation with LLMs}.
+\newblock In {\em Advances in Neural Information Processing Systems}, volume~37, pages 41394--41424. Curran Associates, Inc., 2024.
+
+\bibitem{bunel2017learning}
+Rudy Bunel, Alban Desmaison, M.~Pawan Kumar, Philip H.~S. Torr, and Pushmeet Kohli.
+\newblock {Learning to Superoptimize Programs}.
+\newblock In {\em International Conference on Learning Representations}, 2017.
+
+\bibitem{chen2021evaluating}
+Mark Chen, Jerry Tworek, Heewoo Jun, Qiming Yuan, Henrique Ponde De~Oliveira Pinto, Jared Kaplan, Harri Edwards, Yuri Burda, Nicholas Joseph, Greg Brockman, et~al.
+\newblock Evaluating large language models trained on code.
+\newblock {\em arXiv preprint arXiv:2107.03374}, 2021.
+
+\bibitem{chen2026prove2me}
+Shuze Chen, Kunal Marwaha, Xiaoyang Lu, Henry Yuen, and Tianyi Peng.
+\newblock {Prove2Me: An Open Collaborative Platform for Scaling Math Formalization}.
+\newblock {\em arXiv preprint arXiv:2608.28433}, 2026.
+
+\bibitem{chen2025automated}
+Tianyu Chen, Shuai Lu, Shan Lu, Yeyun Gong, Chenyuan Yang, Xuheng Li, Md~Rakib~Hossain Misu, Hao Yu, Nan Duan, Peng Cheng, Fan Yang, Shuvendu Lahiri, Tao Xie, and Lidong Zhou.
+\newblock {Automated Proof Generation for Rust Code via Self-Evolution}.
+\newblock In {\em International Conference on Learning Representations}, volume 2025, pages 71891--71918, 2025.
+
+\bibitem{chiosa2026benchmark}
+Ionel~Emilian Chiosa, Sergiu Bursuc, Theodore Ehrenborg, Shaowei Lin, Lacramioara Astefanoaei, Jure Kukovec, Alok Singh, Oliver Butterley, Adem Bizid, Quinn Dougherty, Miranda Zhao, Max Tan, and Max Tegmark.
+\newblock {A Benchmark for Vericoding: Formally Verified Program Synthesis}.
+\newblock {\em Transactions on Machine Learning Research}, 2026.
+
+\bibitem{churchill2019semantic}
+Berkeley Churchill, Oded Padon, Rahul Sharma, and Alex Aiken.
+\newblock Semantic program alignment for equivalence checking.
+\newblock In {\em Programming Language Design and Implementation (PLDI)}, 2019.
+
+\bibitem{cummins2025llm}
+Chris Cummins, Volker Seeker, Dejan Grubisic, Baptiste Roziere, Jonas Gehring, Gabriel Synnaeve, and Hugh Leather.
+\newblock {LLM Compiler: Foundation Language Models for Compiler Optimization}.
+\newblock In {\em Proceedings of the 34th ACM SIGPLAN International Conference on Compiler Construction}, pages 141--153. ACM, 2025.
+
+\bibitem{cutler2024cedarauthorization}
+Joseph~W. Cutler, Craig Disselkoen, Aaron Eline, Shaobo He, Kyle Headley, Michael Hicks, Kesha Hietala, Eleftherios Ioannidis, John Kastner, Anwar Mamat, Darin McAdams, Matt McCutchen, Neha Rungta, Emina Torlak, and Andrew~M. Wells.
+\newblock {Cedar: A New Language for Expressive, Fast, Safe, and Analyzable Authorization}.
+\newblock {\em Proceedings of the ACM on Programming Languages}, 8(OOPSLA1):670--697, 2024.
+
+\bibitem{cuyckens2026ares}
+Stef Cuyckens, Mihaela Jivanescu, Jun Yin, Chao Fang, and Marian Verhelst.
+\newblock {ARES: Adaptive Reasoning-Effort Steering for PPA- and Cost-Aware RTL Optimization with LLM Agents}.
+\newblock {\em arXiv preprint arXiv:2607.27879}, 2026.
+
+\bibitem{moura2021lean4}
+Leonardo de~Moura and Sebastian Ullrich.
+\newblock {The Lean 4 Theorem Prover and Programming Language}.
+\newblock In {\em Automated Deduction -- CADE 28}, pages 625--635. Springer International Publishing, 2021.
+
+\bibitem{delaware2015fiat}
+Benjamin Delaware, Cl{\'{e}}ment Pit-Claudel, Jason Gross, and Adam Chlipala.
+\newblock {Fiat: Deductive Synthesis of Abstract Data Types in a Proof Assistant}.
+\newblock In {\em Proceedings of the 42nd Annual ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages}, pages 689--700. ACM, 2015.
+
+\bibitem{dijkstra1972humble}
+Edsger~W. Dijkstra.
+\newblock {The Humble Programmer}.
+\newblock {\em Communications of the ACM}, 15(10):859--866, 1972.
+
+\bibitem{dougherty2025provingcoding}
+Quinn Dougherty and Ronak Mehta.
+\newblock {Proving the Coding Interview: A Benchmark for Formally Verified Code Generation}.
+\newblock In {\em 2025 IEEE/ACM International Workshop on Large Language Models for Code (LLM4Code)}, pages 72--79. IEEE, 2025.
+
+\bibitem{du2024mercury}
+Mingzhe Du, Anh~Tuan Luu, Bin Ji, Qian Liu, and See-Kiong Ng.
+\newblock {Mercury: A Code Efficiency Benchmark for Code Large Language Models}.
+\newblock In {\em Advances in Neural Information Processing Systems}, volume~37, 2024.
+
+\bibitem{endres2024can}
+Madeline Endres, Sarah Fakhoury, Saikat Chakraborty, and Shuvendu~K Lahiri.
+\newblock Can large language models transform natural language intent into formal method postconditions?
+\newblock {\em Proceedings of the {ACM} on Software Engineering}, 2024.
+
+\bibitem{eniser2025towards}
+Hasan~Ferit Eniser, Hanliang Zhang, Cristina David, Meng Wang, Maria Christakis, Brandon Paulsen, Joey Dodds, and Daniel Kroening.
+\newblock {Towards Translating Real-World Code with LLMs: A Study of Translating to Rust}.
+\newblock {\em arXiv preprint arXiv:2405.11514}, 2025.
+
+\bibitem{erbsen2019simple}
+Andres Erbsen, Jade Philipoom, Jason Gross, Robert Sloan, and Adam Chlipala.
+\newblock {Simple High-Level Code for Cryptographic Arithmetic -- With Proofs, Without Compromises}.
+\newblock In {\em 2019 IEEE Symposium on Security and Privacy (SP)}, pages 1202--1219. IEEE, 2019.
+
+\bibitem{fang2026llm}
+Xiangxin Fang, Jiaqin Kang, Rodrigo Rocha, Sam Ainsworth, and Lev Mukhanov.
+\newblock {LLM-VeriOpt: Verification-Guided Reinforcement Learning for LLM-Based Compiler Optimization}.
+\newblock In {\em 2026 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)}, pages 740--755. IEEE, 2026.
+
+\bibitem{fazel2026tllm}
+Zahra Fazel, Sunanda Gamage, Shayan Shirahmad~Gale Bagi, Amir~H. Ashouri, Tomasz~S. Czajkowski, Bryan Chan, Reza Azimi, and Yaoqing Gao.
+\newblock {T-LLM Compiler: Trusted LLM-based Code Optimization and Verification Framework}.
+\newblock {\em arXiv preprint arXiv:2608.14953}, 2026.
+
+\bibitem{godlin2013regression}
+Benny Godlin and Ofer Strichman.
+\newblock {Regression Verification: Proving the Equivalence of Similar Programs}.
+\newblock {\em Software Testing, Verification and Reliability}, 23(3):241--258, 2013.
+
+\bibitem{ho2022aeneas}
+Son Ho and Jonathan Protzenko.
+\newblock Aeneas: Rust verification by functional translation.
+\newblock {\em Proceedings of the ACM on Programming Languages}, 6(ICFP):711--741, 2022.
+
+\bibitem{huang2024effibench}
+Dong Huang, Yuhao Qing, Weiyi Shang, Heming Cui, and Jie~M. Zhang.
+\newblock {EffiBench: Benchmarking the Efficiency of Automatically Generated Code}.
+\newblock In {\em Advances in Neural Information Processing Systems}, volume~37, 2024.
+
+\bibitem{hubert2026olympiad}
+Thomas Hubert, Rishi Mehta, Laurent Sartran, Mikl{\'o}s~Z. Horv{\'a}th, Goran {\v Z}u{\v z}i{\'c}, Eric Wieser, Aja Huang, Julian Schrittwieser, Yannick Schroecker, Hussain Masoom, Ottavia Bertolli, Tom Zahavy, Amol Mandhane, Jessica Yung, Iuliya Beloshapka, Borja Ibarz, Vivek Veeriah, Lei Yu, Oliver Nash, Paul Lezeau, Salvatore Mercuri, Calle S{\"o}nne, Bhavik Mehta, Alex Davies, Daniel Zheng, Fabian Pedregosa, Yin Li, Ingrid von Glehn, Mark Rowland, Samuel Albanie, Ameya Velingker, Simon Schmitt, Edward Lockhart, Edward Hughes, Henryk Michalewski, Nicolas Sonnerat, Demis Hassabis, Pushmeet Kohli, and David Silver.
+\newblock {Olympiad-level formal mathematical reasoning with reinforcement learning}.
+\newblock {\em Nature}, 651(8106):607--613, 2026.
+
+\bibitem{jia2011analysis}
+Yue Jia and Mark Harman.
+\newblock {An Analysis and Survey of the Development of Mutation Testing}.
+\newblock {\em IEEE Transactions on Software Engineering}, 37(5):649--678, 2011.
+
+\bibitem{jiang2026large}
+Chao Jiang, Dugang Liu, Cheng Wen, Zhiwu Xu, Hua Zheng, Muhammad Sadiq, Jawwad~Ahmed Shamsi, Shengchao Qin, and Zhong Ming.
+\newblock {Large Language Models for Multilingual Code Intelligence: A Survey}.
+\newblock {\em arXiv preprint arXiv:2604.25960}, 2026.
+
+\bibitem{jimenez2024swe}
+Carlos~E Jimenez, John Yang, Alexander Wettig, Shunyu Yao, Kexin Pei, Ofir Press, and Karthik~R Narasimhan.
+\newblock {SWE-bench}: Can language models resolve real-world {GitHub} issues?
+\newblock In {\em International Conference on Learning Representations (ICLR)}, 2024.
+
+\bibitem{joshi2002denali}
+Rajeev Joshi, Greg Nelson, and Keith Randall.
+\newblock {Denali: a goal-directed superoptimizer}.
+\newblock In {\em Proceedings of the ACM SIGPLAN 2002 Conference on Programming Language Design and Implementation}, pages 304--314. ACM, 2002.
+
+\bibitem{kumar2014cakeml}
+Ramana Kumar, Magnus~O. Myreen, Michael Norrish, and Scott Owens.
+\newblock {CakeML: a verified implementation of ML}.
+\newblock In {\em Proceedings of the 41st ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages}, pages 179--191. ACM, 2014.
+
+\bibitem{lammich2012applying}
+Peter Lammich and Thomas Tuerk.
+\newblock {Applying Data Refinement for Monadic Programs to Hopcroft's Algorithm}.
+\newblock In {\em Interactive Theorem Proving}, pages 166--182. Springer Berlin Heidelberg, 2012.
+
+\bibitem{lample2022hypertree}
+Guillaume Lample, Timothee Lacroix, Marie-Anne Lachaux, Aurelien Rodriguez, Amaury Hayat, Thibaut Lavril, Gabriel Ebner, and Xavier Martinet.
+\newblock {HyperTree} proof search for neural theorem proving.
+\newblock In {\em Neural Information Processing Systems (NeurIPS)}, 2022.
+
+\bibitem{lange2025towards}
+Robert~Tjarko Lange, Qi~Sun, Aaditya Prasad, Maxence Faldor, Yujin Tang, and David Ha.
+\newblock {Towards Robust Agentic CUDA Kernel Benchmarking, Verification, and Optimization}.
+\newblock {\em arXiv preprint arXiv:2509.14279}, 2025.
+
+\bibitem{leroy2009formalverification}
+Xavier Leroy.
+\newblock {Formal verification of a realistic compiler}.
+\newblock {\em Communications of the ACM}, 52(7):107--115, 2009.
+
+\bibitem{li2026cuda}
+Xiaoya Li, Xiaofei Sun, Albert Wang, Jiwei Li, and Chris Shum.
+\newblock {CUDA-L1: Improving CUDA Optimization via Contrastive Reinforcement Learning}.
+\newblock In {\em International Conference on Learning Representations}, volume 2026, pages 123922--123957, 2026.
+
+\bibitem{lin2026goedel}
+Yong Lin, Shange Tang, Bohan Lyu, Ziran Yang, Jui-Hui Chung, Haoyu Zhao, Lai Jiang, Yihan Geng, Jiawei Ge, Jingruo Sun, et~al.
+\newblock {Goedel-Prover-V2: Scaling Formal Theorem Proving with Scaffolded Data Synthesis and Self-Correction}.
+\newblock In {\em International Conference on Learning Representations (ICLR)}, 2026.
+
+\bibitem{liu2026asmevo}
+Ji~Liu, Puyuan Yang, Rongzhang Zheng, Fan Wang, Jinglin Wang, Muhammad~A. Awad, Mortis Huang, Andy Chang, Zekai Li, Zeping Li, Zihao An, Yue Liu, Yuchen Yang, Jianghui Wang, Chushi Chen, Ziqiong Liu, Fuwei Yang, Dong Li, Wen~Heng Chung, Shengcai Liu, and Emad Barsoum.
+\newblock {AsmEvo: Agentic Assembly-Level Optimization of AMD GPU Kernels with Functional Equivalence Verification}.
+\newblock {\em arXiv preprint arXiv:2608.20711}, 2026.
+
+\bibitem{liu2026time}
+Shu Liu, Alexander Krentsel, Shubham Agarwal, Mert Cemri, Ziming Mao, Soujanya Ponnapalli, Alexandros~G. Dimakis, Sylvia Ratnasamy, Matei Zaharia, Aditya Parameswaran, and Ion Stoica.
+\newblock {The Time is Here for Just-in-Time Systems: Challenges and Opportunities}.
+\newblock {\em arXiv preprint arXiv:2605.24096}, 2026.
+
+\bibitem{llvm2026libfuzzerlibrary}
+{LLVM Project Contributors}.
+\newblock {libFuzzer: A Library for Coverage-Guided Fuzz Testing}.
+\newblock \url{https://llvm.org/docs/LibFuzzer.html}, 2026.
+
+\bibitem{lohn2024minicodeprops}
+Evan Lohn and Sean Welleck.
+\newblock {miniCodeProps}: a minimal benchmark for proving code properties.
+\newblock {\em arXiv preprint arXiv:2406.11915}, 2024.
+
+\bibitem{lopes2021alive2}
+Nuno~P. Lopes, Juneyoung Lee, Chung-Kil Hur, Zhengyang Liu, and John Regehr.
+\newblock {Alive2: bounded translation validation for LLVM}.
+\newblock In {\em Proceedings of the 42nd ACM SIGPLAN International Conference on Programming Language Design and Implementation}, pages 65--79. ACM, 2021.
+
+\bibitem{loughridge2025dafnybench}
+Chloe Loughridge, Qinyi Sun, Seth Ahrenbach, Federico Cassano, Chuyue Sun, Ying Sheng, Anish Mudide, Md~Rakib~Hossain Misu, Nada Amin, and Max Tegmark.
+\newblock {DafnyBench: A Benchmark for Formal Software Verification}.
+\newblock {\em Transactions on Machine Learning Research}, 2025.
+
+\bibitem{ma2025specgen}
+Lezhi Ma, Shangqing Liu, Yi~Li, Xiaofei Xie, and Lei Bu.
+\newblock {SpecGen}: Automated generation of formal program specifications via large language models.
+\newblock In {\em 2025 IEEE/ACM 47th International Conference on Software Engineering (ICSE)}, pages 16--28. IEEE, 2025.
+
+\bibitem{mankowitz2023faster}
+Daniel~J. Mankowitz, Andrea Michi, Anton Zhernov, Marco Gelmi, Marco Selvi, Cosmin Paduraru, Edouard Leurent, Shariq Iqbal, Jean-Baptiste Lespiau, Alex Ahern, Thomas K{\"{o}}ppe, Kevin Millikin, Stephen Gaffney, Sophie Elster, Jackson Broshear, Chris Gamble, Kieran Milan, Robert Tung, Minjae Hwang, Taylan Cemgil, Mohammadamin Barekatain, Yujia Li, Amol Mandhane, Thomas Hubert, Julian Schrittwieser, Demis Hassabis, Pushmeet Kohli, Martin Riedmiller, Oriol Vinyals, and David Silver.
+\newblock {Faster sorting algorithms discovered using deep reinforcement learning}.
+\newblock {\em Nature}, 618(7964):257--263, 2023.
+
+\bibitem{massalin1987superoptimizer}
+Henry Massalin.
+\newblock {Superoptimizer: a look at the smallest program}.
+\newblock In {\em Proceedings of the Second International Conference on Architectural Support for Programming Languages and Operating Systems}, pages 122--126. ACM, 1987.
+
+\bibitem{mckeeman1998differential}
+William~M. McKeeman.
+\newblock {Differential Testing for Software}.
+\newblock {\em Digital Technical Journal}, 10(1):100--107, 1998.
+
+\bibitem{morrison2026leanzip}
+Kim Morrison.
+\newblock {lean-zip: A Formally Verified DEFLATE Implementation in Lean 4}.
+\newblock \url{https://github.com/kim-em/lean-zip}, 2026.
+
+\bibitem{necula2000translation}
+George~C. Necula.
+\newblock {Translation validation for an optimizing compiler}.
+\newblock In {\em Proceedings of the ACM SIGPLAN 2000 conference on Programming language design and implementation}, pages 83--94. ACM, 2000.
+
+\bibitem{novikov2025alphaevolve}
+Alexander Novikov, Ng{\^{a}}n V{\~{u}}, Marvin Eisenberger, Emilien Dupont, Po-Sen Huang, Adam~Zsolt Wagner, Sergey Shirobokov, Borislav Kozlovskii, Francisco J.~R. Ruiz, Abbas Mehrabian, M.~Pawan Kumar, Abigail See, Swarat Chaudhuri, George Holland, Alex Davies, Sebastian Nowozin, Pushmeet Kohli, and Matej Balog.
+\newblock {AlphaEvolve: A coding agent for scientific and algorithmic discovery}.
+\newblock {\em arXiv preprint arXiv:2506.13131}, 2025.
+
+\bibitem{oconnor2021cogent}
+Liam O'Connor, Zilin Chen, Christine Rizkallah, Vincent Jackson, Sidney Amani, Gerwin Klein, Toby Murray, Thomas Sewell, and Gabriele Keller.
+\newblock {Cogent: uniqueness types and certifying compilation}.
+\newblock {\em Journal of Functional Programming}, 31:e25, 2021.
+
+\bibitem{ouyang2025kernelbench}
+Anne Ouyang, Simon Guo, Simran Arora, Alex~L Zhang, William Hu, Christopher Re, and Azalia Mirhoseini.
+\newblock {KernelBench: Can LLMs Write Efficient GPU Kernels?}
+\newblock In {\em Proceedings of the 42nd International Conference on Machine Learning}, volume 267 of {\em Proceedings of Machine Learning Research}, pages 47356--47415. PMLR, 2025.
+
+\bibitem{paradigm2026soliduscompiler}
+{Paradigm}.
+\newblock {Solidus: A Formally Verified Yul-to-EVM Compiler and Optimization Challenge}.
+\newblock \url{https://github.com/paradigmxyz/solidus}, 2026.
+
+\bibitem{pnueli1998translation}
+A.~Pnueli, M.~Siegel, and E.~Singerman.
+\newblock {Translation validation}.
+\newblock In {\em Tools and Algorithms for the Construction and Analysis of Systems}, pages 151--166. Springer Berlin Heidelberg, 1998.
+
+\bibitem{polu2020generative}
+Stanislas Polu and Ilya Sutskever.
+\newblock Generative language modeling for automated theorem proving.
+\newblock {\em arXiv preprint arXiv:2009.03393}, 2020.
+
+\bibitem{ren2025deepseek}
+ZZ~Ren, Zhihong Shao, Junxiao Song, Huajian Xin, Haocheng Wang, Wanjia Zhao, Liyue Zhang, Zhe Fu, Qihao Zhu, Dejian Yang, et~al.
+\newblock {DeepSeek-Prover-V2}: Advancing formal mathematical reasoning via reinforcement learning for subgoal decomposition.
+\newblock {\em arXiv preprint arXiv:2504.21801}, 2025.
+
+\bibitem{rinard2026testing}
+Martin~C. Rinard.
+\newblock {Testing, Credible Compilation, and Verification in the Axon Verified Compiler in Lean and Claude Code}.
+\newblock In {\em Proceedings of the 2026 ACM SIGPLAN International Workshop on Principles of Agentic Engineering}, pages 12--24. ACM, 2026.
+
+\bibitem{ryulean2026ryulean4verification}
+{RyuLean4 Contributors}.
+\newblock {RyuLean4: Formal Verification of the Ryu Float-to-String Algorithm in Lean 4}.
+\newblock \url{https://github.com/lexicone42/ryu-lean4}, 2026.
+
+\bibitem{sarkar2026correctness}
+Dipankar Sarkar.
+\newblock {The Correctness Illusion in LLM-Generated GPU Kernels}.
+\newblock {\em arXiv preprint arXiv:2606.20128}, 2026.
+
+\bibitem{sasnauskas2018souper}
+Raimondas Sasnauskas, Yang Chen, Peter Collingbourne, Jeroen Ketema, Gratian Lup, Jubi Taneja, and John Regehr.
+\newblock {Souper: A Synthesizing Superoptimizer}.
+\newblock {\em arXiv preprint arXiv:1711.04422}, 2018.
+
+\bibitem{schkufza2013stochastic}
+Eric Schkufza, Rahul Sharma, and Alex Aiken.
+\newblock {Stochastic superoptimization}.
+\newblock In {\em Proceedings of the eighteenth international conference on Architectural support for programming languages and operating systems}, pages 305--316. ACM, 2013.
+
+\bibitem{shah2026contract}
+Rishi Shah and Rishav Shrestha.
+\newblock {A Contract-Grade Verifier for LLM-Generated GPU Kernels, and a Native Blackwell Backward for the Gated-Linear-Recurrence Family}.
+\newblock {\em arXiv preprint arXiv:2608.12700}, 2026.
+
+\bibitem{shyamsunder2026formal}
+Nikil~V. Shyamsunder.
+\newblock {Formal Performance and Compile Time Guarantees for Compiler Optimization Heuristics}.
+\newblock {\em arXiv preprint arXiv:2608.20137}, 2026.
+\newblock Accepted to the FMCAD 2026 Student Forum.
+
+\bibitem{shypula2024learning}
+Alexander Shypula, Aman Madaan, Yimeng Zeng, Uri Alon, Jacob Gardner, Milad Hashemi, Graham Neubig, Parthasarathy Ranganathan, Osbert Bastani, and Amir Yazdanbakhsh.
+\newblock {Learning Performance-Improving Code Edits}.
+\newblock In {\em International Conference on Learning Representations}, volume 2024, pages 47277--47301, 2024.
+
+\bibitem{si2026certificate}
+Yuan Si and Jialu Zhang.
+\newblock {Certificate-Carrying Transformation of Event-Driven Block Programs}.
+\newblock {\em arXiv preprint arXiv:2607.00563}, 2026.
+
+\bibitem{skalse2022defining}
+Joar Skalse, Nikolaus H.~R. Howe, Dmitrii Krasheninnikov, and David Krueger.
+\newblock {Defining and Characterizing Reward Gaming}.
+\newblock In {\em Advances in Neural Information Processing Systems}, volume~35, 2022.
+
+\bibitem{sothanaphan2026resolution}
+Nat Sothanaphan.
+\newblock {Resolution of Erd\H{o}s Problem \#728: A Writeup of Aristotle's Lean Proof}.
+\newblock {\em arXiv preprint arXiv:2601.07421}, 2026.
+
+\bibitem{strata2026strata}
+{Strata Contributors}.
+\newblock {Strata: A Unified Platform for Formalizing Language Syntax and Semantics}.
+\newblock \url{https://github.com/strata-org/Strata}, 2026.
+
+\bibitem{taneja2025llm}
+Jubi Taneja, Avery Laird, Cong Yan, Madan Musuvathi, and Shuvendu~K. Lahiri.
+\newblock {LLM-Vectorizer: LLM-Based Verified Loop Vectorizer}.
+\newblock In {\em Proceedings of the 23rd ACM/IEEE International Symposium on Code Generation and Optimization}, pages 137--149. ACM, 2025.
+
+\bibitem{thakur2025cleververified}
+Amitayush Thakur, Jasper Lee, George Tsoukalas, Meghana Sistla, Matthew Zhao, Stefan Zetzsche, Greg Durrett, Yisong Yue, and Swarat Chaudhuri.
+\newblock {CLEVER: A Curated Benchmark for Formally Verified Code Generation}.
+\newblock In {\em Advances in Neural Information Processing Systems}, volume 38, Main Conference. Curran Associates, Inc., 2025.
+
+\bibitem{tsoukalas2026advancing}
+George Tsoukalas, Anton Kovsharov, Sergey Shirobokov, Anja Surina, Moritz Firsching, Gergely Bérczi, Francisco J.~R. Ruiz, Arun Suggala, Adam~Zsolt Wagner, Eric Wieser, Lei Yu, Aja Huang, Miklós~Z. Horváth, Andrew Ferraiuolo, Henryk Michalewski, Edward Lockhart, Codrut Grosu, Thomas Hubert, Matej Balog, Pushmeet Kohli, and Swarat Chaudhuri.
+\newblock {Advancing Mathematics Research with AI-Driven Formal Proof Search}.
+\newblock {\em arXiv preprint arXiv:2605.22763}, 2026.
+
+\bibitem{ullrich2019counting}
+Sebastian Ullrich and Leonardo de~Moura.
+\newblock {Counting Immutable Beans: Reference Counting Optimized for Purely Functional Programming}.
+\newblock In {\em Proceedings of the 31st Symposium on Implementation and Application of Functional Languages (IFL 2019)}, pages 1--12. ACM, 2019.
+
+\bibitem{waghjale2024ecco}
+Siddhant Waghjale, Vishruth Veerendranath, Zora~Zhiruo Wang, and Daniel Fried.
+\newblock {ECCO: Can We Improve Model-Generated Code Efficiency Without Sacrificing Functional Correctness?}
+\newblock In {\em Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing}. Association for Computational Linguistics, 2024.
+
+\bibitem{wang2026autogate}
+Yiting Wang, Chenhui Deng, Chia-Tung Ho, Yanqing Zhang, Zhuo Feng, Cunxi Yu, Ang Li, Gang Qu, and Brucek Khailany.
+\newblock {AUTOGATE: Automated Clock Gating via Toggling-Aware LLM-based RTL Rewriting}.
+\newblock {\em arXiv preprint arXiv:2606.17461}, 2026.
+
+\bibitem{wei2025astra}
+Anjiang Wei, Tianran Sun, Yogesh Seenichamy, Hang Song, Anne Ouyang, Azalia Mirhoseini, Ke~Wang, and Alex Aiken.
+\newblock {Astra: A Multi-Agent System for GPU Kernel Performance Optimization}.
+\newblock In {\em NeurIPS 2025 Fourth Workshop on Deep Learning for Code}, 2025.
+
+\bibitem{willsey2021egg}
+Max Willsey, Chandrakana Nandi, Yisu~Remy Wang, Oliver Flatt, Zachary Tatlock, and Pavel Panchekha.
+\newblock {egg: Fast and extensible equality saturation}.
+\newblock {\em Proceedings of the ACM on Programming Languages}, 5(POPL):1--29, 2021.
+
+\bibitem{xin2026verisoftbenchcolm}
+Yutong Xin, Jocelyn~Qiaochu Chen, Greg Durrett, and I{\c{s}}il Dillig.
+\newblock {VeriSoftBench: Repository-Scale Formal Verification Benchmarks for Lean}.
+\newblock In {\em Conference on Language Modeling (COLM)}, 2026.
+
+\bibitem{xiong2026cktformalizer}
+Jing Xiong, Qi~Han, Chenchen Ding, He~Xiao, Zunhai Su, Chaofan Tao, and Ngai Wong.
+\newblock {CktFormalizer: Autoformalization of Natural Language into Circuit Representations}.
+\newblock {\em arXiv preprint arXiv:2605.07782}, 2026.
+
+\bibitem{yang2025vert}
+Aidan~Z.H. Yang, Yoshiki Takashima, Brandon Paulsen, Josiah Dodds, and Daniel Kroening.
+\newblock {VERT: Polyglot Verified Equivalent Rust Transpilation with Large Language Models}.
+\newblock In {\em 2025 40th IEEE/ACM International Conference on Automated Software Engineering (ASE)}, pages 1453--1463. IEEE, 2025.
+
+\bibitem{yang2026verusage}
+Chenyuan Yang, Natalie Neamtu, Chris Hawblitzel, Jacob~R. Lorch, and Shan Lu.
+\newblock {VeruSAGE: A Study of Agent-Based Verification for Rust Systems}.
+\newblock {\em arXiv preprint arXiv:2512.18436}, 2026.
+
+\bibitem{yang2024sweagent}
+John Yang, Carlos~E. Jimenez, Alexander Wettig, Kilian Lieret, Shunyu Yao, Karthik Narasimhan, and Ofir Press.
+\newblock {SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering}.
+\newblock In {\em Advances in Neural Information Processing Systems}, volume~37, 2024.
+
+\bibitem{yang2026programbench}
+John Yang, Kilian Lieret, Jeffrey Ma, Parth Thakkar, Dmitrii Pedchenko, Sten Sootla, Emily McMilin, Pengcheng Yin, Rui Hou, Gabriel Synnaeve, Diyi Yang, and Ofir Press.
+\newblock {ProgramBench: Can Language Models Rebuild Programs From Scratch?}
+\newblock {\em arXiv preprint arXiv:2605.03546}, 2026.
+
+\bibitem{ye2026vero}
+Zhe Ye, Hantao Lou, Yuechun Sun, Peiyang Song, Zhengxu Yan, Timothe Kasriel, Qingyang Zhang, Kaiyu Yang, Soonho Kong, Jingxuan He, and Dawn Song.
+\newblock {Vero: Can AI Agents Build Formally Verified Software Repositories?}
+\newblock {\em arXiv preprint arXiv:2608.13522}, 2026.
+
+\bibitem{ye2026verina}
+Zhe Ye, Zhengxu Yan, Jingxuan He, Timothe Kasriel, Kaiyu Yang, and Dawn Song.
+\newblock {VERINA: Benchmarking Verifiable Code Generation}.
+\newblock In {\em International Conference on Learning Representations}, volume 2026, pages 38933--38972, 2026.
+
+\bibitem{ye2026intent}
+Zhe Ye, Aidan Z.~H. Yang, Huangyuan Su, Zhenyu Liao, Samuel Tenka, Zhizhen Qin, Udaya Ghai, Dawn Song, and Soonho Kong.
+\newblock {Intent-aligned Formal Specification Synthesis via Traceable Refinement}.
+\newblock {\em arXiv preprint arXiv:2604.10392}, 2026.
+
+\bibitem{yin2025hec}
+Jiaqi Yin, Zhan Song, Nicolas~Bohm Agostini, Antonino Tumeo, and Cunxi Yu.
+\newblock {{HEC}: Equivalence Verification Checking for Code Transformation via Equality Saturation}.
+\newblock In {\em 2025 USENIX Annual Technical Conference (USENIX ATC 25)}, pages 1181--1196. USENIX Association, 2025.
+
+\bibitem{zalewski2014americanfuzzy}
+Micha{\l} Zalewski.
+\newblock {American Fuzzy Lop}.
+\newblock \url{https://github.com/google/AFL}, 2014.
+
+\bibitem{zhang2026kernelbench}
+Yunxiang Zhang, Ping Yu, Jianyu Wang, Max~(Xiangjun) Fan, Julian Reed, Azalia Mirhoseini, and Will Su.
+\newblock {KernelBench-Verified: Do LLM-Generated Kernels Actually Beat PyTorch?}
+\newblock {\em arXiv preprint arXiv:2607.16241}, 2026.
+
+\bibitem{zheng2025vectrans}
+Zhongchun Zheng, Kan Wu, Long Cheng, Lu~Li, Rodrigo C.~O. Rocha, Tianyi Liu, Wei Wei, Jianjiang Zeng, Xianwei Zhang, and Yaoqing Gao.
+\newblock {VecTrans: Enhancing Compiler Auto-Vectorization through LLM-Assisted Code Transformations}.
+\newblock {\em arXiv preprint arXiv:2503.19449}, 2025.
+
+\bibitem{zhong2025towards}
+Si~Cheng Zhong and Xujie Si.
+\newblock Towards repository-level program verification with large language models.
+\newblock In {\em Proceedings of the 1st ACM SIGPLAN International Workshop on Language Models and Programming Languages}, pages 27--39, 2025.
+
+\bibitem{zhong2026impossiblebench}
+Ziqian Zhong, Aditi Raghunathan, and Nicholas Carlini.
+\newblock {ImpossibleBench: Measuring LLMs' Propensity of Exploiting Test Cases}.
+\newblock In {\em International Conference on Learning Representations (ICLR)}, 2026.
+
+\end{thebibliography}

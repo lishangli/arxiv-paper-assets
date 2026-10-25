@@ -1,0 +1,47 @@
+{
+  "arxiv_id": "2610.30188",
+  "figures": [
+    {
+      "file": "assets/2610.30188/figures/figures/paper/migration-workflow.pdf",
+      "raw_url": "https://raw.githubusercontent.com/lishangli/arxiv-paper-assets/orgin/assets/2610.30188/figures/figures/paper/migration-workflow.pdf"
+    },
+    {
+      "file": "assets/2610.30188/figures/figures/paper/migration-ablations.pdf",
+      "raw_url": "https://raw.githubusercontent.com/lishangli/arxiv-paper-assets/orgin/assets/2610.30188/figures/figures/paper/migration-ablations.pdf"
+    },
+    {
+      "file": "assets/2610.30188/figures/figures/paper/repository-results.pdf",
+      "raw_url": "https://raw.githubusercontent.com/lishangli/arxiv-paper-assets/orgin/assets/2610.30188/figures/figures/paper/repository-results.pdf"
+    },
+    {
+      "file": "assets/2610.30188/figures/figures/paper/optimization-workflow.pdf",
+      "raw_url": "https://raw.githubusercontent.com/lishangli/arxiv-paper-assets/orgin/assets/2610.30188/figures/figures/paper/optimization-workflow.pdf"
+    },
+    {
+      "file": "assets/2610.30188/figures/figures/paper/function-results.pdf",
+      "raw_url": "https://raw.githubusercontent.com/lishangli/arxiv-paper-assets/orgin/assets/2610.30188/figures/figures/paper/function-results.pdf"
+    }
+  ],
+  "latex_references": [
+    {
+      "tex": "appendix.tex",
+      "graphic": "figures/paper/migration-ablations.pdf"
+    },
+    {
+      "tex": "main.tex",
+      "graphic": "figures/paper/optimization-workflow.pdf"
+    },
+    {
+      "tex": "main.tex",
+      "graphic": "figures/paper/migration-workflow.pdf"
+    },
+    {
+      "tex": "main.tex",
+      "graphic": "figures/paper/function-results.pdf"
+    },
+    {
+      "tex": "main.tex",
+      "graphic": "figures/paper/repository-results.pdf"
+    }
+  ]
+}
